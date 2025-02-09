@@ -1,0 +1,16 @@
+{
+  "name": "@alex/wabot",
+  "version": "0.0.5",
+  "description": "Super Wa-Bot",
+  "main": "start.js",
+  "type": "module",
+  "directories": {
+    "lib": "src/lib",
+    "plugins": "src/plugins"
+  },
+  "scripts": {
+    "start": "node start.js",
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9"
+}
