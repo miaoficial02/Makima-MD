@@ -2,9 +2,9 @@
   "name": "senkobot-md",
   "version": "0.0.5",
   "description": "WhatsApp Bot",
-  "main": "index.js",
+  "main": "start.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node start.js"
   },
   "repository": {
     "type": "git",
