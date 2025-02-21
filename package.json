@@ -1,16 +1,11 @@
 {
-  "name": "@alex/wabot",
-  "version": "0.0.5",
-  "description": "Super Wa-Bot",
-  "main": "start.js",
-  "type": "module",
-  "directories": {
-    "lib": "src/lib",
-    "plugins": "src/plugins"
-  },
+  "name": "alex-wabot",
+  "version": "0.0.1",
+  "description": "Super wonderful scraper",
   "scripts": {
     "start": "node start.js",
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.9"
+    "@whiskeysockets/baileys": "^6.7.13",
+    "alex-wabot": "^0.0.1"
 }
