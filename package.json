@@ -1,11 +1,36 @@
 {
-  "name": "alex-wabot",
-  "version": "0.0.1",
-  "description": "Super wonderful scraper",
+  "name": "senkobot-md",
+  "version": "0.0.5",
+  "description": "WhatsApp Bot",
+  "main": "index.js",
   "scripts": {
-    "start": "node start.js",
+    "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfcKing/SenkoBot-MD.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "node",
+    "nodejs"
+  ],
+  "author": "OfcKing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OfcKing/SenkoBot-MD/issues"
+  },
+  "homepage": "https://github.com/OfcKing/SenkoBot-MD#readme",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.13",
-    "alex-wabot": "^0.0.1"
+    "@cacheable/node-cache": "1.5.2",
+    "@hapi/boom": "10.0.1",
+    "@whiskeysockets/baileys": "6.7.13",
+    "cfonts": "3.3.0",
+    "chalk": "5.4.1",
+    "lowdb": "7.0.1",
+    "pino": "9.6.0",
+    "qrcode-terminal": "0.12.0"
+  }
 }
