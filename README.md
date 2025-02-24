@@ -1,8 +1,8 @@
-> 「✰」 Versión actual: ^0.0.1
+> 「✰」 Versión actual: ^0.0.5
 
-<h1 align="center">★ 𝐒𝐞𝐧𝐤𝐨 𝐒𝐚𝐧 𝐔𝐥𝐭𝐫𝐚 ★</p>
+<h1 align="center">★ Senko San Ultra ★</p>
 <p>
-        <img src = "https://qu.ax/zgjTd.jpg">
+        <img src = "https://qu.ax/lRebp.jpg">
     </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - Grupo oficial del Bot
 
-* <a href="https://chat.whatsapp.com/GWNT8saooXmA4dn5Kga8kp"><img alt="Senko San" src="https://img.shields.io/badge/Senko-San-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/GWNT8saooXmA4dn5Kga8kp"><img alt="WaBot" src="https://img.shields.io/badge/Senko-Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
@@ -19,13 +19,13 @@
 
 - Grupo soporte sobre el bot
 
-* <a href="https://chat.whatsapp.com/I25gNEySd7y7MahyIgxdGJ"><img alt="WhatsApp" src="https://img.shields.io/badge/Senko-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/I25gNEySd7y7MahyIgxdGJ"><img alt="WaBot" src="https://img.shields.io/badge/Senko-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
 <div align="center">
   <h1 align="center">Propietario de la Bot</h1>
 
-<a href="https://github.com/OfcKing"><img src="https://github.com/OfcKing.png" width="300" height="300" alt="OfcKing"/></a>
+<a href="https://github.com/OfcKing"><img src="https://github.com/OfcKing.png" width="300" height="300" alt="Alex"/></a>
 
-`© Senko San - MD • OfcKing`
+`© Senko San - MD • Alex-X`
