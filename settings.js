@@ -17,10 +17,8 @@ globalThis.owner = [
 
 globalThis.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥲᥣᥱ᥊-᥊ ✌︎'
 globalThis.botname = 'Senko San'
-globalThis.jadi = 'SanJadiBot'
 globalThis.sessions = 'SanSession'
 globalThis.vs = '^1.0.0'
-globalThis.sanJadibts = true
 
 globalThis.gp1 = "https://chat.whatsapp.com/GkuIuySiMwb4qJGl3UJtcZ"
 globalThis.channel = "https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A"
