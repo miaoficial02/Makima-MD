@@ -26,6 +26,6 @@
 <div align="center">
   <h1 align="center">Propietario de la Bot</h1>
 
-<a href="https://github.com/OfcKing"><img src="https://github.com/OfcKing.png" width="300" height="300" alt="Alex"/></a>
+<a href="https://github.com/DevAlexJs"><img src="https://github.com/DevAlexJs.png" width="300" height="300" alt="Alex"/></a>
 
 `© Senko San - MD • Alex-X`
