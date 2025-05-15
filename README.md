@@ -2,7 +2,7 @@
 
 <h1 align="center">★ Senko San Ultra ★</p>
 <p>
-        <img src = "https://qu.ax/lRebp.jpg">
+        <img src = "https://files.catbox.moe/rmv0d7.jpg">
     </p>
 
 ---
