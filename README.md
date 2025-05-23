@@ -11,7 +11,7 @@
 
 - Grupo oficial del Bot
 
-* <a href="https://chat.whatsapp.com/IYjYlh5ymYc2oMt8mBaEyo"><img alt="WaBot" src="https://img.shields.io/badge/Senko-Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://stellar.sylphy.xyz/grupo"><img alt="WaBot" src="https://img.shields.io/badge/Senko-Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
@@ -19,7 +19,7 @@
 
 - Grupo soporte sobre el bot
 
-* <a href="https://chat.whatsapp.com/DopCDWbvi4c437IH9gjhBu"><img alt="WaBot" src="https://img.shields.io/badge/Senko-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://stellar.sylphy.xyz/soporte"><img alt="WaBot" src="https://img.shields.io/badge/Senko-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
