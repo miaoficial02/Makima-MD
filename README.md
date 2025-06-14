@@ -6,5 +6,9 @@
 
 ----
 
-### Propietario del Proyecto
-[![DevAlexJs](https://github.com/DevAlexJs.png?size=200)](https://github.com/DevAlexJs) 
+<div align="center">
+  <h1 align="center">Autor del proyecto</h1>
+
+<a href="https://github.com/DevAlexJs"><img src="https://github.com/DevAlexJs.png" width="300" height="300" alt="Alex-X"/></a>
+
+[`© Stellar WaBot • Alex-X`](https://stellarwa.xyz/stellar)
