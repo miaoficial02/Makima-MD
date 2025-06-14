@@ -35,6 +35,7 @@ yarn install && npm install
 npm start
 ```
 > *Si aparece **(Y/I/N/O/D/Z) [default=N] ?** use la letra **"y"** y luego **"ENTER"** para continuar con la instalación.*
+
 </details>
 
 <details>
@@ -81,5 +82,5 @@ cd && cd AlyaBot-MD && rm -rf AlyaSession && npm run code
 ```
 </details>
 
-### Prppietario del Proyecto
+### Propietario del Proyecto
 [![DevAlexJs](https://github.com/DevAlexJs.png?size=100)](https://github.com/DevAlexJs) 
