@@ -4,16 +4,16 @@
 <p align="center"> 
 <img src="https://files.catbox.moe/ixhyq3.png" alt="AlyaBot-MD" style="width: 75%; height: auto; max-width: 100px;">
 
-<p align="center"> 
-<a href="#"><img title="AlyaBot-MD" src="https://img.shields.io/badge/¡Disfruta de un Bot totalmente gratuito, con múltiples funciones y de código abierto! -purple?colorA=%239b33b0&colorB=%231c007b&style=for-the-badge"></a> 
-</p>
-<div align="center">
-
 ----
+
+<details>
+  <summary><b>Instalación de Alya</b></summary>
 
 ## Instalación por Termux
 > [!IMPORTANT]
 > **No garantizamos un funcionamiento perfecto en Termux, aunque trabajamos constantemente para asegurar una buena compatibilidad. Si experimentas lentitud o errores, por favor envía una solicitud con la evidencia correspondiente para que nuestro equipo pueda solucionarlo. Si el problema persiste, te recomendamos considerar los servicios de alojamiento de bots de nuestros patrocinadores.**
+
+<details>
 
 <details>
   <summary><b>Instalación Manual</b></summary>
