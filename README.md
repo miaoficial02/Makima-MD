@@ -5,6 +5,9 @@
 
 
 
+
+
+
 > [!IMPORTANT]
 > **Este proyecto está en constante evolución. Te invito a que nos siga en nuestro canal oficial para que no te pierdas ninguna novedad. [Click Aquí](https://stellarwa.xyz/channel)**
 
