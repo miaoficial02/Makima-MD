@@ -3,6 +3,7 @@
         <img src = "https://stellarwa.xyz/files/1749938512574.jpg">
     </p>
 
+
 > [!IMPORTANT]
 > **Este proyecto está en constante evolución. Te invito a que nos siga en nuestro canal oficial para que no te pierdas ninguna novedad. [Click Aquí](https://stellarwa.xyz/channel)**
 
