@@ -1,4 +1,4 @@
-> 「✰」 Versión actual: ^0.0.2
+> 「✰」 Versión actual: ^1.0.0
 
 <h1 align="center">✩ 𝐀𝐥𝐲𝐚 𝐒𝐚𝐧 𝐌𝐃 ✩</p>
 <p>
