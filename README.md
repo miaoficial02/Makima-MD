@@ -19,7 +19,7 @@
 
 - Grupo oficial del Bot2
 
-* <a href="https://stellarwa.xyz/alya"><img alt="Alya" src="https://img.shields.io/badge/Stellar-Alya-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://stellarwa.xyz/senko"><img alt="Senko" src="https://img.shields.io/badge/Stellar-Senko-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
