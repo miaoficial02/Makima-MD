@@ -9,7 +9,7 @@ globalThis.owner = [
 ]
 
 globalThis.botname = 'Mem-Cho'
-globalThis.dev = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥲᥣᥱ᥊-᥊ ✌︎'
+globalThis.dev = '•᷄‎ࡇ•᷅ ძᥱrᥱᥴһ᥆s rᥱsᥱr᥎ᥲძ᥆s ⍴᥆r ᥱᥣ ᥲᥙ𝗍һ᥆r'
 globalThis.jadi = 'MemJadiBot'
 globalThis.sessions = 'MemSession'
 
