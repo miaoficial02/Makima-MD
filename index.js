@@ -36,10 +36,6 @@ const { CONNECTING } = ws
 const { chain } = lodash
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
-//const wa = dirname(fileURLToPath(import.meta.url))
-//let require = createRequire(wa)
-let { say } = cfonts
-
 console.log(chalk.magentaBright('\nIniciando...'))
 
 say('Mem-Cho', {
@@ -138,28 +134,6 @@ const filterStrings = [
     console.debug = () => { }
     ['log', 'warn', 'error'].forEach(methodName => redefineConsoleMethod(methodName, filterStrings))
 
-/*const connectionOptions = {
-    logger: pino({ level: "silent" }),
-    printQRInTerminal: opcion == "1" ? true : methodCodeQR ? true : false,
-    mobile: MethodMobile,
-    browser: ["Ubuntu", "Edge", "110.0.1587.56"],
-    auth: {
-        creds: state.creds,
-        keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
-    },
-    markOnlineOnConnect: true,
-    generateHighQualityLinkPreview: true,
-    getMessage: async (key) => {
-        const jid = jidNormalizedUser(key.remoteJid)
-        const msg = await store.loadMessage(jid, key.id)
-        return msg?.message || ""
-    },
-    msgRetryCounterCache,
-    msgRetryCounterMap,
-    defaultQueryTimeoutMs: undefined,
-    version,
-}*/
-
 const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : methodCodeQR ? true : false,
@@ -212,7 +186,7 @@ addNumber = phoneNumber.replace(/\D/g, '')
 setTimeout(async () => {
 let codeBot = await conn.requestPairingCode(addNumber)
 codeBot = codeBot?.match(/.{1,4}/g)?.join("-") || codeBot
-console.log(chalk.bold.white(chalk.bgMagenta(`👑 CÓDIGO DE VINCULACIÓN 👑`)), chalk.bold.white(chalk.white(codeBot)))
+console.log(chalk.bold.white(chalk.bgMagenta(`🎍 Código: `)), chalk.bold.white(chalk.white(codeBot)))
 }, 3000)
 }}}
 }
