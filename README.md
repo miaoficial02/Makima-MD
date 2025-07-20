@@ -1,8 +1,8 @@
 > 「✰」 Versión actual: ^1.0.0
 
-<h1 align="center">✩ 𝐀𝐥𝐲𝐚 𝐒𝐚𝐧 𝐌𝐃 ✩</p>
+<h1 align="center">✩ 𝐌𝐞𝐦 𝐂𝐡𝐨 𝐌𝐃 ✩</p>
 <p>
-        <img src = "https://stellarwa.xyz/files/1749938512574.jpg">
+        <img src = "https://stellarwa.xyz/files/1753048395196.jpg">
     </p>
 
 ---
@@ -11,15 +11,7 @@
 
 - Grupo oficial del Bot
 
-* <a href="https://stellarwa.xyz/stellar"><img alt="Stellar" src="https://img.shields.io/badge/Stellar-WaBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
----
-
-## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Grupo de WhatsApp" width="42" height="42"> Grupo WhatsApp
-
-- Grupo oficial del Bot2
-
-* <a href="https://stellarwa.xyz/senko"><img alt="Senko" src="https://img.shields.io/badge/Stellar-Senko-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://stellarwa.xyz/memcho"><img alt="Stellar" src="https://img.shields.io/badge/Mem-Cho-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
 
@@ -33,4 +25,4 @@
 
 <a href="https://github.com/DevAlexJs"><img src="https://github.com/DevAlexJs.png" width="300" height="300" alt="Alex-X"/></a>
 
-[`© Stellar WaBot • Alex-X`](https://stellarwa.xyz/stellar)
+[`© Stellar WaBot • Alexiu`](https://stellarwa.xyz/stellar)
