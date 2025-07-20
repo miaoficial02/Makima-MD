@@ -13,6 +13,7 @@ globalThis.mods = []
 globalThis.botname = 'Mem-Cho'
 globalThis.dev = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥲᥣᥱ᥊-᥊ ✌︎'
 globalThis.jadi = 'MemJadiBot'
+globalThis.sessions = 'MemSession'
 
 globalThis.api = { 
 url: 'https://api.stellarwa.xyz',
