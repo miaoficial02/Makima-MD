@@ -198,13 +198,6 @@ export async function handler(chatUpdate) {
 
                 globalThis.comando = command
 
-        if (!m.chat.endsWith('g.us')) {
-
-        if (!isOwner) {
-        return
-        } else {
-        }
-        }
                 if (!isAccept) {
                     continue
                 }          
@@ -214,10 +207,6 @@ export async function handler(chatUpdate) {
 
                     if (name !== "grupo-mute.js" && chat?.bannedGrupo && !isOwner) return
              }
-                 if (chat) {
-                    if (name != "grupo-mute.js" && chat?.bannedGrupo && !isOwner)
-                        return
-                 }
 
                 const adminMode = chat.adminonly || false
                 const wa = plugins.botAdmin || plugins.admin || plugins.group || plugins || noPrefix || pluginPrefix || m.text.slice(0, 1) === pluginPrefix || plugins.command
