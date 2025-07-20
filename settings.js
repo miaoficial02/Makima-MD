@@ -10,6 +10,7 @@ globalThis.owner = [
 
 globalThis.mods = []
 
+globalThis.botname = 'Mem-Cho'
 globalThis.dev = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥲᥣᥱ᥊-᥊ ✌︎'
 globalThis.jadi = 'MemJadiBot'
 
