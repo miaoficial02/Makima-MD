@@ -8,8 +8,6 @@ globalThis.owner = [
   ["5492916450307", "Owner 👑", true]
 ]
 
-globalThis.mods = []
-
 globalThis.botname = 'Mem-Cho'
 globalThis.dev = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥲᥣᥱ᥊-᥊ ✌︎'
 globalThis.jadi = 'MemJadiBot'
