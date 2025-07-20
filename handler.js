@@ -169,7 +169,6 @@ export async function handler(chatUpdate) {
                     chatUpdate,
                     ___dirname,
                     __filename,
-                    user,
                     chat
                 })) {
                     continue
@@ -238,7 +237,6 @@ export async function handler(chatUpdate) {
                     conn: this,
                     participants,
                     groupMetadata,
-                    user,
                     chat,
                     isOwner,
                     isRAdmin,
