@@ -213,14 +213,12 @@ export async function handler(chatUpdate) {
                 if (chat) {
 
                     if (name !== "grupo-mute.js" && chat?.bannedGrupo && !isOwner) return
-                    if (m.text && globalThis.db.data.chats[m.chat].users[m.sender].banned && !isOwner) {
-         // const mensaje = `ꕥ Estás baneado en este grupo.\n\n> ● *Razón ›* ${globalThis.db.data.chats[m.chat].users[m.sender].reason}\n> ● Puedes usar el Bot en otro grupo o intenta apelar el baneo.`.trim();
-                }
              }
                  if (chat) {
                     if (name != "grupo-mute.js" && chat?.bannedGrupo && !isOwner)
                         return
                  }
+
                 const adminMode = chat.adminonly || false
                 const wa = plugins.botAdmin || plugins.admin || plugins.group || plugins || noPrefix || pluginPrefix || m.text.slice(0, 1) === pluginPrefix || plugins.command
                 if (adminMode && !isOwner && m.isGroup && !isAdmin && wa) return
@@ -265,38 +263,28 @@ export async function handler(chatUpdate) {
                     await plugin.call(this, m, extra)
                 } catch (err) {
                     m.error = err
-                    console.error(err)
+                    // console.error(err)
                 } finally {
                     if (typeof plugin.after === "function") {
                         try {
                             await plugin.after.call(this, m, extra)
                         } catch (err) {
-                            console.error(err)
+                            // console.error(err)
                         }
                     }
                 }
             }
         }
     } catch (err) {
-        console.error(err)
+        // console.error(err)
     } finally {
         if (opts["queque"] && m.text) {
             const quequeIndex = this.msgqueque.indexOf(m.id || m.key.id)
             if (quequeIndex !== -1)
                 this.msgqueque.splice(quequeIndex, 1)
         }
-        let user, stats = globalThis.db.data.stats
-        if (m) {
-            if (m.sender && user) {
-                user.exp += m.exp
-            }
-        }
 
-        try {
-            if (!opts["noprint"]) await (await import(`./lib/print.js`)).default(m, this)
-        } catch (err) {
-            console.warn(err)
-            console.log(m.message)
+            if (!opts["noprint"]) await (await import(`./lib/console.js`)).default(m, this)
         }
     }
 }
