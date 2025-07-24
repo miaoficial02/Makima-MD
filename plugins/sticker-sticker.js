@@ -19,8 +19,8 @@ let handler = async (m, { conn, args }) => {
       if (!img) return conn.reply(m.chat, '🏵️ Envía una imagen o video para hacer un sticker.', m);
 
       let out;
-      const texto1 = 'Mem cho (xd)';
-      const texto2 = 'By Alex (xd)';
+      const texto1 = 'Mᴇᴍ 🧠 Cʜᴏ';
+      const texto2 = await conn.getName(m.sender);
 
       try {
         stiker = await sticker(img, false, texto1, texto2);
@@ -38,22 +38,22 @@ let handler = async (m, { conn, args }) => {
 
     } else if (args[0]) {
       if (isUrl(args[0])) {
-        const texto1 = 'Ahorita edito';
-        const texto2 = 'By alex';
+        const texto1 = 'Mᴇᴍ 🧠 Cʜᴏ';
+        const texto2 = await conn.getName(m.sender);
         stiker = await sticker(false, args[0], texto1, texto2);
       } else {
-        return m.reply('🏵️ El URL es incorrecto.');
+        return m.reply('🏵️ El Link es incorrecto.');
       }
     }
 
   } catch (e) {
-    console.error(e);
+    // console.error(e);
     if (!stiker) stiker = e;
   } finally {
     if (stiker) {
-      conn.sendFile(m.chat, stiker, 'sticker.webp', '', m);
+      return conn.sendFile(m.chat, stiker, 'sticker.webp', '', m);
     } else {
-      conn.reply(m.chat, '🏵️ No se pudo crear el sticker. Intenta de nuevo.', m);
+      return conn.reply(m.chat, '🏵️ Envía una imagen o video para hacer un sticker.', m);
     }
   }
 };
