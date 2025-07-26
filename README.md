@@ -25,4 +25,4 @@
 
 <a href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="300" height="300" alt="Alex-X"/></a>
 
-[`© Stellar WaBot • Alexiu`](https://stellarwa.xyz/stellar)
+[`©𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐈𝐓𝐒 𝐌𝐈𝐒 𝐎𝐅𝐈𝐂𝐈𝐀𝐋`]
