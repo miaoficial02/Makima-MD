@@ -2,21 +2,17 @@
 
 <h1 align="center">✩ 𝐌𝐚𝐤𝐢𝐦𝐚 𝐌𝐃 ✩</p>
 <p>
-        <img src = "https://stellarwa.xyz/files/1753048395196.jpg">
+        <img src = "https://files.catbox.moe/otzm28.jpg">
     </p>
 
 ---
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
 
-- Grupo oficial del Bot
-
-* <a href="https://stellarwa.xyz/memcho"><img alt="Stellar" src="https://img.shields.io/badge/Mem-Cho-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
 ---
 
 > [!IMPORTANT]
-> **Este proyecto está en constante evolución. Te invito a que nos siga en nuestro canal oficial para que no te pierdas ninguna novedad. [Click Aquí](https://stellarwa.xyz/channel)**
+> **Este proyecto está en constante evolución. Te invito a que nos siga en nuestro canal oficial para que no te pierdas ninguna novedad.
 
 ----
 
