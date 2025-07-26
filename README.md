@@ -23,6 +23,6 @@
 <div align="center">
   <h1 align="center">Autor del proyecto</h1>
 
-<a href="https://github.com/DevAlexJs"><img src="https://github.com/DevAlexJs.png" width="300" height="300" alt="Alex-X"/></a>
+<a href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="300" height="300" alt="Alex-X"/></a>
 
 [`© Stellar WaBot • Alexiu`](https://stellarwa.xyz/stellar)
