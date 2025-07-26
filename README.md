@@ -7,12 +7,13 @@
 
 ---
 
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> 𝐋𝐄𝐄 𝐂𝐎𝐍 𝐀𝐓𝐄𝐍𝐂𝐈𝐎́𝐍
 
 ---
 
 > [!IMPORTANT]
-> **Este proyecto está en constante evolución. Te invito a que nos siga en nuestro canal oficial para que no te pierdas ninguna novedad.**
+> **Este proyecto aún está en desarrollo.♡
+> el proyecto está en constante evalucion por lo tanto el bot aún no funcionará hasta que el proyectó este terminado.**
 
 ----
 
