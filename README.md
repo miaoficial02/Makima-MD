@@ -1,6 +1,6 @@
 > 「✰」 Versión actual: ^1.0.0
 
-<h1 align="center">✩ 𝐌𝐞𝐦 𝐂𝐡𝐨 𝐌𝐃 ✩</p>
+<h1 align="center">✩ 𝐌𝐚𝐤𝐢𝐦𝐚 𝐌𝐃 ✩</p>
 <p>
         <img src = "https://stellarwa.xyz/files/1753048395196.jpg">
     </p>
